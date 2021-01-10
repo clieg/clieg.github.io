@@ -1,0 +1,48 @@
+body {
+    background-color: #2b303c;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #ffffff;
+    margin: 100px 50px 50px 50px;
+
+}
+
+.links {
+    width: 100%;
+    display: table;
+}
+
+.links-child {
+    padding: 0px 50px 0px 50px;
+    display: inline-block;
+    text-align: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #656e84;
+    text-align: left;
+    display:table;
+}
+a:hover {
+    color: #ffffff;
+}
+
+.DDG {
+    background-color: #656e84;
+    border: none;
+    width: 500px;
+    height: 24px;
+    color: #ffffff;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: table;
+    padding: 0px 0px 50px 0px;
+}
