@@ -1,0 +1,15 @@
+/*
+    H = #4f4f4f
+    W = #fefb86
+    
+    RED = '#c74c34'
+    BLACK = '#23261f'
+    WHITE = '#ffe0a8'
+ */
+body, pre {
+ background-color: #23261f;
+ color: #c74c34;
+ 
+ font-family: Silver;
+ font-size: 20px;
+}
