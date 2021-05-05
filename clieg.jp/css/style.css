@@ -1,15 +1,38 @@
 /*
-    H = #4f4f4f
-    W = #fefb86
+    COLOURS
     
     RED = '#c74c34'
     BLACK = '#23261f'
     WHITE = '#ffe0a8'
  */
+
+
 body, pre {
- background-color: #23261f;
- color: #ffe0a8;
- 
- font-family: Silver;
- font-size: 20px;
+    background-color: #23261f;
+    color: #ffe0a8;
+    font-family: Silver;
+    font-size: 64px;
+}
+
+
+a {
+    color: #c74c34;
+    text-decoration: none;
+}
+
+
+button {
+    font-size: 32px;
+    font-family: Silver;
+    height: 32px;
+    width: 164px;
+    color: #23261f;
+    background-color: #ffe0a8;
+    border: 1px;
+}
+
+
+button:hover {
+    background-color: #c74c34;
+    color: #ffe0a8;
 }
