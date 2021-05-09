@@ -7,10 +7,16 @@
  */
 
 
+@font-face {
+    font-family: "Silver";
+    src: url("../res/Silver.ttf");
+}
+
+
 body, pre {
     background-color: #23261f;
     color: #ffe0a8;
-    font-family: Silver;
+    font-family: "Silver";
     font-size: 64px;
 }
 
@@ -23,7 +29,7 @@ a {
 
 button {
     font-size: 32px;
-    font-family: Silver;
+    font-family: "Silver";
     height: 32px;
     width: 164px;
     color: #23261f;
