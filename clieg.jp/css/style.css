@@ -18,6 +18,9 @@ body, pre {
     color: #ffe0a8;
     font-family: "Silver";
     font-size: 64px;
+    white-space: pre-line;
+    word-wrap: break-word;
+    text-align: justify;
 }
 
 
